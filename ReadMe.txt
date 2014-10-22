@@ -1,4 +1,2 @@
 This is a really cool project
- this has now been updated
-Test
-This is a conflict change
+This is Line one change in master
